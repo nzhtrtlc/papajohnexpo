@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "19.0.0",
+    "name" : "PapaJohn's Pizza",
+    "version" : "1.0.0"
+  },
+  "android" : {
+    "package" : "com.nezih.ppjhns"
+  }
+}
